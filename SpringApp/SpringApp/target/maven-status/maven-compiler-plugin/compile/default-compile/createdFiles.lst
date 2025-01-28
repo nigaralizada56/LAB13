@@ -1,0 +1,5 @@
+com\example\SpringApp\controller\UserController.class
+com\example\SpringApp\SpringAppApplication.class
+com\example\SpringApp\config\SecurityConfig.class
+com\example\SpringApp\model\User.class
+com\example\SpringApp\service\UserService.class
